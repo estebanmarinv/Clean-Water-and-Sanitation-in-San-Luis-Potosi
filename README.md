@@ -1,4 +1,4 @@
-# WORLD-UNDP
+# Clean Water and Sanitation in San Luis Potosi
 
 One of the most important issues in any city of the world is having enough water to sustain its population
 and needs. The United Nations Development Program has set the importance of Clean Water and Sanitation
